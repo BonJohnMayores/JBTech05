@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JBTech05
+- 👋 Hi, I’m @BonJohnMayores
 - 👀 I’m interested in C#, SQL, HTML, CSS, JAVA, JAVASCRIPT, PHP, Bootstrap, Laravel, Tailwind CSS
 - 🌱 I’m currently learning JAVA, JS, PHP, Bootstrap, Laravel, tailwind CSS
 - 💞️ I’m looking to collaborate on HTML AND CSS
